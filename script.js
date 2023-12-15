@@ -35,7 +35,7 @@ $(document).ready(function(){
 
     // typing text animation script
     var typed = new Typed(".typing", {
-        strings: ["NAAC A++", "NBA", "NIRF 101-150", "UGC Autonomous"],
+        strings: ["Bheemeshwari,22241A6748,15-08-2005,griet"],
         typeSpeed: 100,
         backSpeed: 75,
         loop: true
